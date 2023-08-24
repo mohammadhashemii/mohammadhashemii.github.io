@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Mohammad Hashemi / Personal Website"
+title: "Mohammad Hashemi"
 title_separator: "-"
 name: &name "Mohammad Hashemi"
 description: &description "personal description"
@@ -81,10 +81,10 @@ author:
   name: "Mohammad Hashemi"
   avatar: "profile.png"
   bio: "PhD student in Computer Science"
-  location: "Atalnta, Georgia"
+  location: "Atlanta, Georgia"
   employer:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?hl=en&user=LRpJtSQAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar: "https://scholar.google.com/citations?user=LRpJtSQAAAAJ&hl=en"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -98,16 +98,16 @@ author:
   google_plus:
   keybase:
   instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory:
   lastfm:
-  linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  linkedin: "https://www.linkedin.com/in/mohammadhashemi/"
+  orcid:
   pinterest:
   soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
+  stackoverflow:
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter:
   vine:
   weibo:
   xing:
