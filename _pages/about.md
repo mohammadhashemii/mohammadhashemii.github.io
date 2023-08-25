@@ -14,7 +14,8 @@ My research interests include Deep Learning in particular, and Machine Learning 
 
 ## Research Interests
 
-- Graph Neural Networks, Graph Machine Learning
+- Machine Learning
+- Graph Neural Networks
 - Computer Vision
 - AI in Healthcare
 
