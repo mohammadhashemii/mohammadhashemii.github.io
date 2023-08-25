@@ -7,12 +7,11 @@ author_profile: true
 
 ## Conference/Journal Papers
 
-- Armin Salimi-Badr, **Mohammad Hashemi**, Hamid Reza Saffari\n
-  **A type-2 neuro-fuzzy system with a novel learning method for Parkinson’s disease diagnosis**
+- A Salimi-Badr, **M Hashemi**, Hamid Reza Saffari &lt **A type-2 neuro-fuzzy system with a novel learning method for Parkinson’s disease diagnosis** &gt
 
   In Applied Intelligence (APIN) journal, 2023
 
-- Armin Salimi-Badr, **Mohammad Hashemi**
+- A Salimi-Badr, **M Hashemi**
 
   **A Neural-Based Approach to Aid Early Parkinson's Disease Diagnosis**
 
@@ -20,8 +19,8 @@ author_profile: true
 
 ## Preprints
 
-- Shahabedin Nabavi, **Mohammad Hashemi**, Mohsen Ebrahimi Moghaddam, Ahmad Ali Abin, Alejandro F Frangi
+- S Nabavi, **M Hashemi**, ME Moghaddam, AA Abin, AF Frangi
 
-  **Fully Automated Assessment of Cardiac Coverage in Cine Cardiovascular Magnetic Resonance Images using an Explainable Deep Visual Salient Region Detection Model** [[pdf]](https://arxiv.org/pdf/2206.06844.pdf)
+  **Fully Automated Assessment of Cardiac Coverage in Cine Cardiovascular Magnetic Resonance Images using an Explainable Deep Visual Salient Region Detection Model** [[PDF]](https://arxiv.org/pdf/2206.06844.pdf)
 
   arXiv 2022
