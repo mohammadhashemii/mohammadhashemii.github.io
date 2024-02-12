@@ -13,5 +13,8 @@ author_profile: true
 
 ## Preprints
 
+- **M Hashemi**, S Gong, J Ni, W Fan, B Prakash, W Jin
+  **A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation** [[pdf]](https://arxiv.org/pdf/2402.03358.pdf) [[reading list]](https://github.com/ChandlerBang/awesome-graph-reduction)
+
 - S Nabavi, **M Hashemi**, ME Moghaddam, AA Abin, AF Frangi
-  **Fully Automated Assessment of Cardiac Coverage in Cine Cardiovascular Magnetic Resonance Images using an Explainable Deep Visual Salient Region Detection Model** [[PDF]](https://arxiv.org/pdf/2206.06844.pdf)
+  **Fully Automated Assessment of Cardiac Coverage in Cine Cardiovascular Magnetic Resonance Images using an Explainable Deep Visual Salient Region Detection Model** [[pdf]](https://arxiv.org/pdf/2206.06844.pdf)
