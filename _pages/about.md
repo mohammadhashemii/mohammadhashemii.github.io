@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in [Computer Science](https://cs.emory.edu/home/) at [Emory University](https://www.emory.edu/home/index.html). Currently, I am working on Graph Neural Networks including their theory foundation, model robustness, and applications under the supervision of Dr. [Wei Jin](http://www.cs.emory.edu/~wjin30//).
+I am a second-year Ph.D. student in [Computer Science](https://cs.emory.edu/home/) at [Emory University](https://www.emory.edu/home/index.html), where I focus on developing privacy-preserving predictive models for multi-modal temoporal Electronic Health Record (EHR) data under supervision of Prof. [Li Xiong](https://www.cs.emory.edu/~lxiong/) (Co-advised by [Wei Jin](http://www.cs.emory.edu/~wjin30//)).
 
-My research interests include Deep Learning in particular, and Machine Learning in general, with applications in Graph Learning, and Computer Vision. I am intended to better understand these methods in a principled manner by investigating their underlying mathematics and their practical implications in real life. My research goal is to channel such better theoretical and functional understanding of these new methods towards better practical solutions for real life problems.
+My research interests include Machine Learning in general, with applications in Data Privacy, Graph Learning, and Computer Vision. I am intended to better understand these methods in a principled manner by investigating their underlying mathematics and their practical implications in real life. My research goal is to channel such better theoretical and functional understanding of these new methods towards better practical solutions for real life problems.
 
 ## Research Interests
 
 - Machine Learning
+- Data Privacy
 - Graph Data Mining
-- Computer Vision
 - AI in Healthcare
 
 ## Education
