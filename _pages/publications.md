@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference/Journal Papers
 
-- S. Gong\*, **M. Hashemi\* **, J. Ni, C. Yang, W. Jin **Scalable Graph Condensation with Evolving Capabilities**. [[pdf]](https://arxiv.org/abs/2502.17614) KDD 2025.
+- \*S. Gong, **\*M. Hashemi**, J. Ni, C. Yang, W. Jin **Scalable Graph Condensation with Evolving Capabilities**. [[pdf]](https://arxiv.org/abs/2502.17614) KDD 2025.
 
 - **M. Hashemi**, S. Gong, J. Ni, W. Fan, B. A Prakash, W. Jin **A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation**. [[pdf]](https://arxiv.org/pdf/2402.03358.pdf) [[reading list]](https://github.com/Emory-Melody/awesome-graph-reduction) IJCAI 2024.
 
