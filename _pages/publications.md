@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Preprints
+
+- **M. Hashemi**, A. Zufle **From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places**. [[pdf]](https://arxiv.org/abs/2506.14570).
+
+- **M. Hashemi**, H. Amiri, A. Zufle **PlaceFM: A Training-free Geospatial Foundation Model of Places**. [[pdf]](https://arxiv.org/abs/2507.02921).
+
 ## Conference/Journal Papers
 
-- \*S. Gong, **\*M. Hashemi**, J. Ni, C. Yang, W. Jin **Scalable Graph Condensation with Evolving Capabilities**. [[pdf]](https://arxiv.org/abs/2502.17614) KDD 2025.
+- \*S. Gong, **\*M. Hashemi**, J. Ni, C. Yang, W. Jin **Scalable Graph Condensation with Evolving Capabilities**. [[pdf]](https://arxiv.org/abs/2502.17614) KDD 2026.
 
 - **M. Hashemi**, S. Gong, J. Ni, W. Fan, B. A Prakash, W. Jin **A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation**. [[pdf]](https://arxiv.org/pdf/2402.03358.pdf) [[reading list]](https://github.com/Emory-Melody/awesome-graph-reduction) IJCAI 2024.
 
