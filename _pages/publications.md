@@ -7,11 +7,11 @@ author_profile: true
 
 ## Preprints
 
-- **M. Hashemi**, A. Zufle **From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places**. [[pdf]](https://arxiv.org/abs/2506.14570).
-
 - **M. Hashemi**, H. Amiri, A. Zufle **PlaceFM: A Training-free Geospatial Foundation Model of Places**. [[pdf]](https://arxiv.org/abs/2507.02921).
 
 ## Conference/Journal Papers
+
+- **M. Hashemi**, A. Zufle **From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places**. [[pdf]](https://arxiv.org/abs/2506.14570) SIGSPATIAL 2025 - Workshop on Urban Mobility Foundation Models.
 
 - \*S. Gong, **\*M. Hashemi**, J. Ni, C. Yang, W. Jin **Scalable Graph Condensation with Evolving Capabilities**. [[pdf]](https://arxiv.org/abs/2502.17614) KDD 2026.
 
