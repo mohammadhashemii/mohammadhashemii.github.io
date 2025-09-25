@@ -14,14 +14,26 @@ Previously, I had the opportunity to work on a rotation project with Prof. [Li X
 
 My broader research interests lie in machine learning, with applications in spatio-temporal computing, graph learning, and computer vision. I am particularly interested in gaining a principled understanding of these methods by exploring their mathematical foundations and real-world implications. My long-term goal is to translate this theoretical insight into practical solutions for real-world challenges.
 
+🚨 <span style="color:red; font-weight:bold;">Actively Seeking Research Internship Opportunities — Summer/Spring 2026</span>
 
-## Research Interests
+If your team is working on cutting-edge problems at the intersection of ML in general, I’d love to contribute.
+
+## 📘 Research Interests
 
 - Machine Learning
-- Spatio-temporal computing
-- AI in Healthcare
+- Spatial computing
+- Graph Data Mining
+- Computer Vision
 
-## Education
+## 🔥 News
+
+- _[2025/9]_ A preprint about [Geospatial Foundation Models](https://arxiv.org/abs/2507.02921) released on arXiv.
+- _[2025/8]_ 🎉 Our vision paper on [Spatio-temporal Foundation Models](https://arxiv.org/pdf/2506.14570) got accepted by **SIGSPATIAL 25'**, in a Workshop on Urban Mobility Foundation Models.
+- _[2025/5]_ 🎉 Thrilled to take my qualification exam successfully and becoming a PhD candidate.
+- _[2025/2]_ A preprint about [Efficient Graph Condensation](https://arxiv.org/abs/2502.17614) released on arXiv.
+- _[2025/4]_ Our survey on [Graph Reduction](https://arxiv.org/abs/2402.03358) got accepted by **IJCAI 24'**.
+
+## 👨🏼‍🎓 Education
 
 - Ph.D. in Computer Science, Emory University, (2023 - Present)
 - B.Sc. in Computer Engineering, Shahid Beheshti University, (2018 - 2023)
