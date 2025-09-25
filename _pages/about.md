@@ -24,8 +24,7 @@ If your team is working on cutting-edge problems at the intersection of ML in ge
 - _[2025/8]_ 🎉 Our vision paper on [Spatio-temporal Foundation Models](https://arxiv.org/pdf/2506.14570) got accepted by **SIGSPATIAL 25'**, in a Workshop on Urban Mobility Foundation Models.
 - _[2025/5]_ 🎉 Thrilled to take my qualification exam successfully and becoming a PhD candidate.
 - _[2025/2]_ A preprint about [Efficient Graph Condensation](https://arxiv.org/abs/2502.17614) released on arXiv.
-- _[2025/4]_ Our survey on [Graph Reduction](https://arxiv.org/abs/2402.03358) got accepted by **IJCAI 24'**.
-
+- _[2024/4]_ Our survey on [Graph Reduction](https://arxiv.org/abs/2402.03358) got accepted by **IJCAI 24'**.
 
 ## 👨🏼‍🎓 Education
 
