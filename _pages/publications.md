@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-- **M. Hashemi**, H. Amiri, A. Zufle **PlaceFM: A Training-free Geospatial Foundation Model of Places**. [[pdf]](https://arxiv.org/abs/2507.02921).
+- **M. Hashemi**, H. Amiri, A. Zufle **PlaceFM: A Training-free Geospatial Foundation Model of Places using Large-Scale Point of Interest Data**. [[pdf]](https://arxiv.org/abs/2507.02921) [code](https://github.com/mohammadhashemii/PlaceFM).
 
 ## Conference/Journal Papers
 
