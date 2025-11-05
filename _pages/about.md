@@ -20,7 +20,7 @@ If your team is working on cutting-edge problems at the intersection of ML in ge
 
 ## 🔥 News
 
-- _[2025/11]_ Presented my recent work on Geospatial Foundation Models at the [UMFM Workshop](https://rsvp.withgoogle.com/events/sigspatial-2025-umfm-workshop) by Google during ACM SIGSPATIAL 2025 [[slides]](https://drive.google.com/file/d/1bU6XJlZe3kooFqqTYnYi5lvVOlgLuy8U/view?usp=sharing).
+- _[2025/11]_ Presented my recent work on Geospatial Foundation Models at the **[UMFM Workshop](https://rsvp.withgoogle.com/events/sigspatial-2025-umfm-workshop)** by Google during **ACM SIGSPATIAL 2025** [[slides]](https://drive.google.com/file/d/1bU6XJlZe3kooFqqTYnYi5lvVOlgLuy8U/view?usp=sharing).
 - _[2025/9]_ A preprint about [Geospatial Foundation Models](https://arxiv.org/abs/2507.02921) released on arXiv.
 - _[2025/8]_ 🎉 Our vision paper on [Spatio-temporal Foundation Models](https://arxiv.org/pdf/2506.14570) got accepted by **SIGSPATIAL 25'**, in a Workshop on Urban Mobility Foundation Models.
 - _[2025/5]_ 🎉 Thrilled to take my qualification exam successfully and becoming a PhD candidate.
