@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [Computer Science](https://cs.emory.edu/home/) at [Emory University](https://www.emory.edu/home/index.html), advised by Prof. [Andreas Zufle](https://www.zuefle.org/) at the [Spatial Computing Lab](https://spatial.cs.emory.edu/). My current research focuses on designing novel spatio-temporal foundation models for understanding human mobility using geolocation data.
+I am a Ph.D. candidate in [Computer Science](https://cs.emory.edu/home/) at [Emory University](https://www.emory.edu/home/index.html), advised by Prof. [Andreas Zufle](https://www.zuefle.org/) at the [Spatial Computing Lab](https://spatial.cs.emory.edu/). My current research focuses on designing novel spatio-temporal agentic AI and foundation models for understanding human mobility using geolocation data.
 
 Previously, I had the opportunity to work on a rotation project with Prof. [Li Xiong](https://www.cs.emory.edu/~lxiong/), where we developed privacy-preserving predictive models for multi-modal temporal Electronic Health Record (EHR) data. I also worked under the supervision of Dr. [Wei Jin](http://www.cs.emory.edu/~wjin30//) on designing scalable and explainable graph condensation methods for Graph Neural Networks.
 
 My broader research interests lie in **Machine Learning**, with applications in **Spatial Computing**, **Graph Data Mining**, and **Computer Vision**. I am particularly interested in gaining a principled understanding of these methods by exploring their mathematical foundations and real-world implications. My long-term goal is to translate this theoretical insight into practical solutions for real-world challenges.
 
-🚨 <span style="color:red; font-weight:bold;">Actively Seeking Research Internship Opportunities — Summer/Spring 2026</span>
+🚨 <span style="color:red; font-weight:bold;">Actively Seeking Research Internship Opportunities — Summer/Spring 2027</span>
 
 If your team is working on cutting-edge problems at the intersection of ML in general, I’d love to contribute.
 
 ## 🔥 News
 
+- _[2026/9]_ 🎉 Our [World-POI](https://arxiv.org/pdf/2510.21342) data paper got accepted by IEEE Data Descriptions journal.
+- _[2026/8]_ 🎉 Two research papers and one application paper accepted in [SIGSPATIAL 2026](https://sigspatial2026.sigspatial.org/research-accepted/). I'll be presenting [PlaceRep](https://arxiv.org/pdf/2507.02921) in November in Riverside, CA.
 - _[2025/11]_ Our scalable and training-free [Graph Condensation](https://arxiv.org/abs/2502.17614) paper got accepted by **KDD 26'**.
 - _[2025/11]_ Presented my recent work on Geospatial Foundation Models at the **[UMFM Workshop](https://rsvp.withgoogle.com/events/sigspatial-2025-umfm-workshop)** by Google during **ACM SIGSPATIAL 2025** [[slides]](https://drive.google.com/file/d/1bU6XJlZe3kooFqqTYnYi5lvVOlgLuy8U/view?usp=sharing).
 - _[2025/9]_ A preprint about [Geospatial Foundation Models](https://arxiv.org/abs/2507.02921) released on arXiv.

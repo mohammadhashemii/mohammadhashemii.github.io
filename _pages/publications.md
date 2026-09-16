@@ -7,11 +7,21 @@ author_profile: true
 
 ## Preprints
 
-- **M. Hashemi**, H. Amiri, A. Zufle **PlaceFM: A Training-free Geospatial Foundation Model of Places using Large-Scale Point of Interest Data**. [[pdf]](https://arxiv.org/abs/2507.02921) [[code]](https://github.com/mohammadhashemii/PlaceFM).
+- **M. Hashemi**, H. Amiri, A. Zufle **A Comprehensive Survey of Agentic AI for Geospatial Data**. [[pdf]](https://www.preprints.org/manuscript/202601.2236) [[reading list]](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST).
+
+- H. Amiri, **M. Hashemi**, A. Deverakonda, J. Kim, Y. Wang, A. Züfle **Synthetic Wastewater Epidemiology Data Generation using Patterns-of-Life Simulation**. [[pdf]](https://arxiv.org/pdf/2608.21413).
 
 ## Conference/Journal Papers
 
-- **M. Hashemi**, A. Zufle **From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places**. [[pdf]](https://arxiv.org/abs/2506.14570) SIGSPATIAL 2025 - Workshop on Urban Mobility Foundation Models.
+- **M. Hashemi**, H. Amiri, A. Zufle **PlaceRep: Geospatial Place Representation Learning from Large-Scale Point-of-Interest Graph Data**. [[pdf]](https://arxiv.org/abs/2507.02921) [[code]](https://github.com/mohammadhashemii/PlaceRep). SIGSPATIAL 2026
+
+- L. Kennedy, H. Amiri, Y. Liu, R. Bao, H. Chen, **M. Hashemi**, R. Kong, X. Liu, J. Kim, S. Tang, L. Zhao, A. Züfle **Staypoint Detection from Noisy Trajectory Data [Experiment Paper]**. [[pdf]](https://arxiv.org/pdf/2607.19312) [[code]](https://github.com/mohammadhashemii/PlaceRep). SIGSPATIAL 2026
+
+- H. Amiri, **M. Hashemi**, A. Deverakonda, J. Kim, Y. Wang, A. Züfle **Synthetic Wastewater Epidemiology Data Generation using Patterns-of-Life Simulation**. [[pdf]](https://arxiv.org/pdf/2608.21413). SIGSPATIAL 2026
+
+- H. Amiri, **M. Hashemi**,  A. Züfle **World-POI: Global Point-of-Interest Data Enriched from Foursquare and OpenStreetMap as Tabular and Graph Data**. [[pdf]](https://arxiv.org/pdf/2510.21342). IEEE Data Descriptions
+
+- **M. Hashemi**, A. Züfle **From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places**. [[pdf]](https://arxiv.org/abs/2506.14570) SIGSPATIAL 2025 - Workshop on Urban Mobility Foundation Models.
 
 - \*S. Gong, **\*M. Hashemi**, J. Ni, C. Yang, W. Jin **Scalable Graph Condensation with Evolving Capabilities**. [[pdf]](https://arxiv.org/abs/2502.17614) KDD 2026.
 
